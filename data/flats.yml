@@ -1,0 +1,18 @@
+seb:
+  location: Paris, FRANCE
+  picture: https://kitt.lewagon.com/placeholder/cities/paris
+  host: Sebastien
+  description: Charming room in Montmartre
+  avatar: seb.jpg
+anne:
+  location: Tokyo, JAPAN
+  picture: https://kitt.lewagon.com/placeholder/cities/tokyo
+  host: Anne
+  description: Small flat in Tokyo
+  avatar: anne.jpg
+romain:
+  location: London, UK
+  picture: https://kitt.lewagon.com/placeholder/cities/london
+  host: Romain
+  description: Nice flat in Shoreditch
+  avatar: romain.jpeg
